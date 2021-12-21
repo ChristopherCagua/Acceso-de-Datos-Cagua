@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\bin\Debug\AccesodeDatos.exe.config
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\bin\Debug\AccesodeDatos.exe
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\bin\Debug\AccesodeDatos.pdb
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\obj\Debug\AccesodeDatos.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\obj\Debug\AccesodeDatos.frmAccesodeDatos.resources
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\obj\Debug\AccesodeDatos.Properties.Resources.resources
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\obj\Debug\AccesodeDatos.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\obj\Debug\AccesodeDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\obj\Debug\AccesodeDatos.exe
+C:\Users\PC\source\repos\AccesodeDatos\AccesodeDatos\obj\Debug\AccesodeDatos.pdb
